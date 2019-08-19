@@ -3,6 +3,7 @@
  */
 
 public with sharing class OrderProcessor {
+    // yulia comment
     public List<Order> orders = new List<Order>();
 
         public OrderProcessor(List<Order> orders){
